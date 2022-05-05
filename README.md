@@ -1,0 +1,9 @@
+- 👋 Hi, I’m @chinemerem31
+- 👀 I’m interested in data analysis, clinical data analysis to be precise ...
+- 🌱 I’m currently learning Advanced SAS Manipulation and Analysis Techniques...
+- 📫 How to reach me : chine.nzemechi@gmail.com...
+
+<!---
+chinemerem31/chinemerem31 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
